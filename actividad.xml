@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <head>
+        <tittle>Articulos top</tittle>
+    </head>
+    <body>
+        <headline>
+            <hl1>Celulares Perrones</hl1>
+        </headline>
+
+            <game category="Celular">
+                <tittle lang="es">Redmi note 8</tittle>         
+            <colaboradores>
+                    <industry>Pantalla de 6.7 P</industry>
+                    <study>64gb Almacenamiento</study>         
+            </colaboradores>
+                <year>2019</year>
+                <price>3200</price>
+            </game>
+
+            <game category="Celular">
+                <tittle lang="es">Redmi note 9</tittle>         
+            <colaboradores>
+                    <industry>Pantalla de 6.7 P</industry>
+                    <study>128gb Almacenamiento</study>         
+            </colaboradores>
+                <year>2021</year>
+                <price>4200</price>
+            </game>
+
+            <game category="Celular">
+                <tittle lang="es">Motorola Edge 20 pro</tittle>         
+            <colaboradores>
+                    <industry>Pantalla de 6.8 P</industry>
+                    <study>256gb Almacenamiento</study>         
+            </colaboradores>
+                <year>2021</year>
+                <price>1900</price>
+            </game>
+
+            <game category="Celular">
+                <tittle lang="es">Samsung a72</tittle>         
+            <colaboradores>
+                    <industry>Pantalla de 6.6 P</industry>
+                    <study>128gb Almacenamiento</study>         
+            </colaboradores>
+                <year>2021</year>
+                <price>10,000</price>
+            </game>
+
+            <game category="Celular">
+                <tittle lang="es">Huawei Mate 20 lite</tittle>         
+            <colaboradores>
+                    <industry>Pantalla de 6.6 P</industry>
+                    <study>64gb Almacenamiento</study>         
+            </colaboradores>
+                <year>2019</year>
+                <price>5,000</price>
+            </game>
+
+            <game category="Celular">
+                <tittle lang="es">Alcatel Idol Mini</tittle>         
+            <colaboradores>
+                    <industry>Pantalla de 5.7 P</industry>
+                    <study>8gb Almacenamiento</study>         
+            </colaboradores>
+                <year>2014</year>
+                <price>3,000</price>
+            </game>
+
+            <game category="Celular">
+                <tittle lang="es">LG T395</tittle>         
+            <colaboradores>
+                    <industry>Pantalla de 3.6P</industry>
+                    <study>256Mb</study>         
+            </colaboradores>
+                <year>2012</year>
+                <price>1,800</price>
+            </game>
+    </body>
+</games>
